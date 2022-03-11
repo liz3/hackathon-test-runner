@@ -1,0 +1,10 @@
+# github.com/robertkrimen/otto v0.0.0-20211024170158-b87d35c0b86f
+## explicit; go 1.14
+github.com/robertkrimen/otto/ast
+github.com/robertkrimen/otto/file
+github.com/robertkrimen/otto/parser
+github.com/robertkrimen/otto/token
+# gopkg.in/sourcemap.v1 v1.0.5
+## explicit
+gopkg.in/sourcemap.v1
+gopkg.in/sourcemap.v1/base64vlq

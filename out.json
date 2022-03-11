@@ -1,0 +1,61 @@
+{
+  "testCases": [
+    {
+      "id": "t-2",
+      "label": "this is a very long test case",
+      "file": "tests/aaaaa.js",
+      "test-suites": [
+        "s-1"
+      ]
+    },
+    {
+      "id": "t-4",
+      "label": "this is a case",
+      "file": "tests/test.js",
+      "test-suites": [
+        "s-3"
+      ]
+    },
+    {
+      "id": "t-5",
+      "label": "another test with a function",
+      "file": "tests/test.js",
+      "test-suites": [
+        "s-3"
+      ]
+    },
+    {
+      "id": "t-6",
+      "label": "arrow test case",
+      "file": "tests/test.js",
+      "test-suites": [
+        "s-3"
+      ]
+    },
+    {
+      "id": "t-8",
+      "label": "test",
+      "file": "tests/test.js",
+      "test-suites": [
+        "s-7"
+      ]
+    }
+  ],
+  "testSuites": [
+    {
+      "id": "s-1",
+      "label": "another suite",
+      "file": "tests/aaaaa.js"
+    },
+    {
+      "id": "s-3",
+      "label": "some random suite",
+      "file": "tests/test.js"
+    },
+    {
+      "id": "s-7",
+      "label": "another suite",
+      "file": "tests/test.js"
+    }
+  ]
+}
